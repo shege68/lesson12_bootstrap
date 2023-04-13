@@ -1,0 +1,4 @@
+/* на клас чорний ставимо свій колір */
+.bg-dark {
+  background-color: indigo !important;
+}
