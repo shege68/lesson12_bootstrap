@@ -13,9 +13,13 @@
     "gulp-postcss": "^9.0.1",
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^5.1.0",
-    "postcss": "^8.4.16",
+    "postcss": "^8.4.23",
     "postcss-discard-comments": "^5.1.2",
+    "postcss-drop-empty-css-vars": "^0.0.0",
     "sass": "^1.54.5",
     "sort-css-media-queries": "^2.0.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
   }
 }
